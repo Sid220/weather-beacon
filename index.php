@@ -29,7 +29,7 @@
 
 <?php
 
-include 'sample.php';
+include 'get.php';
     
 switch ($data['weather'][0]['main']) {
   case "Thunderstorm":
