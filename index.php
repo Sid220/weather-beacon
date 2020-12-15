@@ -23,8 +23,6 @@
 <html>
     <head>
         <meta http-equiv="refresh" content="60">
-     
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     </head>
 
 <?php
@@ -53,9 +51,6 @@ switch ($data['weather'][0]['main']) {
   default:
     echo "<body style='background-color:green'>";
 }
-?><br><br>
-
-
-</center>
+?>
     </body>
 </html>
