@@ -11,3 +11,4 @@ See [openweathermap's weather conditions page](https://openweathermap.org/weathe
 ## Notes
 - The API Key has been hidden
 - The location has been hidden
+- Under GPL-2.0 License
