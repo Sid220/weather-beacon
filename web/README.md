@@ -1,7 +1,7 @@
 # Weather Beacon
 ## About
-This weather beacon shows colors based on the current weather conditions for your location using [openweathermap.org](https://openweathermap.org)'s weather API.<br>
-## Colors
+This weather beacon shows colours based on the current weather conditions for your location using [openweathermap.org](https://openweathermap.org)'s weather API.<br>
+## Colours
 Red = Rain<br>
 Orange = Snow<br>
 Blue = Clear<br>
