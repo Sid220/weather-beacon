@@ -31,3 +31,5 @@ Use a text editor to change:
 * \<LATITUDE> to your latitude (you can use an online tool like [this](https://www.latlong.net/) to find it out)
 * \<LONGITUDE> to your longitude (you can use an online tool like [this](https://www.latlong.net/) to find it out)
 * \<API_KEY> to your API key
+## Help, I'm a millenial who needs a pretty GUI and therefore can't use a CLI to solve my own problems
+File an issue
