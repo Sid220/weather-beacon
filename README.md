@@ -14,7 +14,7 @@ See [openweathermap's weather conditions page](https://openweathermap.org/weathe
 * The API Key has been hidden
 * The location has been hidden
 * Under MIT License
-## Instalation
+## Installation
 Requirements:
 * A Web Server
 * PHP
