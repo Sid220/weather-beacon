@@ -1,4 +1,4 @@
-# The Vestal's Weather Beacon
+# Weather Beacon
 ## About
 This weather beacon shows colors based on the current weather conditions for your location using openweathermap.org's weather API.
 
